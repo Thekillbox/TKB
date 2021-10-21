@@ -1,1 +1,2 @@
 # TKB
+The Killbox is an action-packed, somewhat bloody first-person shooter game in which players assemble elite squads and trade in-game NFT weapons (AK-47s, grenades, swords). Featuring weekly challenges, ranking matches, and a lottery system for the distribution of crypto prizes.The Killbox’s gameplay will be interactive with a 360 degree arena combat experience with VR capabilities. Additionally, users can choose from various gameplays, such as sniper and DM mode, while earning rewards from their gameplay. 
